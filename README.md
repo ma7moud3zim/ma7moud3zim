@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Carket Android application , Abrag Calculator Application.
 - 🌱 I’m currently learning More Kotlin, Algorithms & DataStructures.
-- 🌱 I’m currently preparing to BeExpert at Codeforces, and To Qualify to ACPC 2023 
+- 🌱 I’m currently preparing to participate in ECPC then Qualify to ACPC 2023 inshaa allah and also BeExpert at Codeforces. 
 - 💬 Ask me about Problem Solving, Competetive programming, Android Studio, Java, Kotlin, Firebase, and OOP
 - 📫 How to reach me: Send a message on LinkedIN
 
