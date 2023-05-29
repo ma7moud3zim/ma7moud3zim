@@ -1,5 +1,4 @@
-### Hi there it's Azim👋
-
+### Hi there it's Azim👋  <img src="https://komarev.com/ghpvc/?username=ma7moud3zim&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="ma7moud3zim" width=10%/>
 <!--
 **ma7moud3zim/ma7moud3zim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
