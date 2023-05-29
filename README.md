@@ -11,6 +11,8 @@
 - 📫 How to reach me: Send a message on LinkedIN
 
 
+Check My Resume: https://bit.ly/cv3zim
+
 
 ![Azim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma7moud3zim&show_icons=true&theme=transparent)
 
