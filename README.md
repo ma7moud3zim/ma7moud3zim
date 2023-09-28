@@ -8,7 +8,8 @@
 - 👨🏻‍💻 Currently I am:
     - Learning More Kotlin, Algorithms & Data Structures.
     - Working in My Graduation Project.
-    - Training to Be expert at Codeforces. 
+    - Training to Be expert at Codeforces.
+    - Head of Modern Academy CP Community.
 - 💬 Ask me about Problem Solving, Competetive programming, Android Studio, Java, Kotlin, Firebase, and OOP.
 - 📫 How to reach me: Send a message on LinkedIN
 
