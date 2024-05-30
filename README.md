@@ -6,7 +6,7 @@
 -->
 
 - 👨🏻‍💻 Currently I am:
-    - Learning More Kotlin, Algorithms & Data Structures.
+    - Learning .Net, Basic AI, MS SQL sever, Algorithms & Data Structures.
     - Working in My Graduation Project.
     - Training to Be Candidate masetr at Codeforces. 
     - Head of Modern Academy CP Community.
