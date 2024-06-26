@@ -10,7 +10,7 @@
     - Working in My Graduation Project.
     - Training to Be Candidate masetr at Codeforces. 
     - Head of Modern Academy CP Community.
-- 💬 Ask me about Problem Solving, Competetive programming, Android Studio, Java, Kotlin, Firebase, and OOP.
+- 💬 Ask me about Problem Solving, Competetive programming, Web development, OOP, SQL, Database, and Android Studio.
 - 📫 How to reach me: Send a message on LinkedIN
 
 Check My Resume: https://bit.ly/cv3zim
