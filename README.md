@@ -1,4 +1,4 @@
-### Hi there it's Azim👋 
+### Hey there, it's Azim! 👋 
 
 <img src="https://komarev.com/ghpvc/?username=ma7moud3zim&label=Profile%20views&color=A325E2&labelColor=FFFFFF&style=for-the-badge" alt="ma7moud3zim" width=20%/>
 
