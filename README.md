@@ -1,4 +1,4 @@
-### Hey there, it's Mahmoud Azim! 👋 
+### Hey there, it's Mahmoud Abdelazim! 👋 
 - 👨🏻‍💻 Currently I am:
     - Learning Java Spring with Web API, Angular framework, Basic AI, MySQL sever.
 - 💬 Ask me about Competetive programming, Web development, OOP, SQL, Database, System Design, and Android Studio.
