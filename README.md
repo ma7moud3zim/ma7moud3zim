@@ -1,4 +1,7 @@
-### Hey there, it's Mahmoud Abdelazim! 👋 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&height=240&color=gradient&text=Hello,%20It's%20Mahmoud%20Abdelazim&textBg=false&fontSize=55&fontAlign=50&fontAlignY=33&descAlign=42&animation=fadeIn&section=header&reversal=false">
+</div>
+
 - 👨🏻‍💻 Currently I am:
     - Making projects with Spring boot and Angular Stack.
     - Learning Java Spring with Web API.
