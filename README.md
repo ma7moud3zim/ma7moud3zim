@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&height=225&color=gradient&text=Hey,%20It's%20Mahmoud%20Abdelazim&textBg=false&fontSize=55&fontAlign=50&fontAlignY=26&descAlign=42&animation=fadeIn&section=header&reversal=false">
+<img src="https://capsule-render.vercel.app/api?type=wave&height=225&color=gradient&text=Hey,%20It's%20Mahmoud%20Abdelazim&textBg=false&fontSize=55&fontAlign=50&fontAlignY=29&descAlign=42&animation=fadeIn&section=header&reversal=false">
 </div>
 
 > ## 👨🏻‍💻 Currently I am:
