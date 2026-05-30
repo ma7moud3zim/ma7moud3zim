@@ -16,7 +16,7 @@
 > ### 📫 How to reach me
 > - Send a message on **<a href="https://www.linkedin.com/in/pro3zim/">Linked In</a>**
 > ### 📝 For more details
-> - Enter **<a href="https://bit.ly/cv3zim">My Resume</a>**
+> - Enter **<a href="https://docs.google.com/document/d/1hX1VaiDSo-7o0gogDQ8jQ34wqaE0GAjXTETD-fuaTzI/edit?usp=sharing">My Resume</a>**
 
 ## 🛠️ Technical Skills
 
