@@ -63,10 +63,4 @@
 </div>
 
 ---
-## 💪🏽 Streak and Commitment
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ma7moud3zim&theme=sea-dark)](https://git.io/streak-stats)
-  
-</div>
 
