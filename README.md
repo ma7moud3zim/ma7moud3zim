@@ -11,12 +11,12 @@
 > - **Reading about** *System Design* and how to design large-scale systems.
 >
 > ### 💬 Ask me about
-> - *Competitive Programming*, *Web Development*, *OOP*, *SQL*, *Database*, *System Design*, and *Android Studio*.
+> - *Competitive Programming*, *Spring Boot*, *Angular*, *UI/UX design*,  *Web Development*, *OOP*, *SQL*, *Database*, *System Design*, and *Android Studio*.
 >
 > ### 📫 How to reach me
-> - Send a message on **<a href="https://www.linkedin.com/in/pro3zim/">Linked In</a>**
+> - Send a message on **<a href="https://www.linkedin.com/in/pro3zim/">LinkedIn</a>**
 > ### 📝 For more details
-> - Enter **<a href="https://docs.google.com/document/d/1hX1VaiDSo-7o0gogDQ8jQ34wqaE0GAjXTETD-fuaTzI/edit?usp=sharing">My Resume</a>**
+> - Click at this to check **<a href="https://docs.google.com/document/d/1hX1VaiDSo-7o0gogDQ8jQ34wqaE0GAjXTETD-fuaTzI/edit?usp=sharing">My Resume</a>**
 
 ## 🛠️ Technical Skills
 
