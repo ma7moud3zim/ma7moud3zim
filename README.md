@@ -7,8 +7,9 @@
 > - **Making projects** with *Spring Boot and Angular Stack*.
 > - **Learning More** *about Java Spring Boot Web API*.
 > - **Learning More** *about Angular framework* for *Frontend*.
-> - **Learning More** *about Database design* specially in *MySQL Server*.
+> - **Learning More** *about Database design* specially in *MySQL*.
 > - **Reading about** *System Design* and how to design large-scale systems.
+> - **Reading about** *Design Patterns* to know the paradigms of solving the famous issues.
 >
 > ### 💬 Ask me about
 > - *Competitive Programming*, *Spring Boot*, *Angular*, *UI/UX design*,  *Web Development*, *OOP*, *SQL*, *Database*, *System Design*, and *Android Studio*.
