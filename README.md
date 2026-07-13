@@ -3,13 +3,14 @@
 </div>
 
 > [!NOTE]
+> 
 > ## 👨🏻‍💻 Currently I am:
-> - **Making projects** with *Spring Boot and Angular Stack*.
-> - **Learning More** *about Java Spring Boot Web API*.
-> - **Learning More** *about Angular framework* for *Frontend*.
-> - **Learning More** *about Database design* specially in *MySQL*.
-> - **Reading about** *System Design* and how to design large-scale systems.
-> - **Reading about** *Design Patterns* to know the paradigms of solving the famous issues.
+> - **Building** full-stack applications with *Spring Boot* and *Angular*.
+> - **Deepening my expertise** in *Spring Boot* and *RESTful API development*.
+> - **Expanding my knowledge** of the *Angular* framework and modern *Frontend Development*.
+> - **Strengthening my understanding** of *Database Design*, with a focus on *MySQL*.
+> - **Studying** *System Design* principles for building *scalable* and *distributed systems*.
+> - **Exploring** *Design Patterns* and *Software Architecture* to build *maintainable* and *robust* applications.
 >
 > ### 💬 Ask me about
 > - *Competitive Programming*, *Spring Boot*, *Angular*, *UI/UX design*,  *Web Development*, *OOP*, *SQL*, *Database*, *System Design*, and *Android Studio*.
