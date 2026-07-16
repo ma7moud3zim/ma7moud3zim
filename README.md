@@ -66,5 +66,5 @@
 
 ---
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=ma7moud3zim&theme=sea&cache_seconds=60"/>  
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=ma7moud3zim&theme=sea&v=1"/>  
 </div>
